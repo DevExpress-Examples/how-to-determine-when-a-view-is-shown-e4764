@@ -1,6 +1,6 @@
 # How to determine when a View is shown
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4764)**
+**[[Run Online]](https://codecentral.devexpress.com/e4764/)**
 <!-- run online end -->
 
 
