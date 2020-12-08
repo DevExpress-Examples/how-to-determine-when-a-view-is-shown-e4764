@@ -1,0 +1,6 @@
+<div data-options="dxView : { name: 'Index', title: 'Home' } ">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div data-bind="dxTextBox:{ value: message}"></div>
+        <div data-bind="dxButton: { text: 'Show Value', clickAction: btn_Click}"></div>
+    </div>
+</div>
